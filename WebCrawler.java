@@ -37,7 +37,7 @@ public class WebCrawler{
 			System.out.println("IOException found"+e);
 		}
 		catch(NullPointerException e){
-			System.out.println("NullPointerException found"+e);
+			System.out.println("NullPointerException d found"+e);
 		}
 	}
 }*/
